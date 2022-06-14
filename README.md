@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dinisfaria
+- 👋 Hi, I’m Dinis Faria
 - 👀 I’m interested in Gaming, Music and operating game servers.
 - 🌱 I’m currently learning C / C++
 - 📫 You can reach me @ dinisfaria@tactical.pt
