@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dinis Faria
 - 👀 I’m interested in Gaming, Music and operating game servers.
-- 🌱 I’m currently learning Java and HTML5
+- 🌱 I’m currently learning PHP
 - 📫 You can reach me @ dinisfaria@viseutech.pt
 
 <!---
