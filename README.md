@@ -35,9 +35,8 @@ Welcome to my GitHub! I am an experienced IT professional with a strong focus on
 
 ## 📊 GitHub Stats
 
-<!-- You can add dynamic GitHub stats here using tools like github-readme-stats! -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinisfaria&show_icons=true&theme=tokyonight" alt="Dinis's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=dinisfaria&theme=tokyonight&hide_border=true" alt="Dinis's GitHub Streak" />
 </div>
 
 ---
