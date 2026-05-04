@@ -1,6 +1,6 @@
 # Hi there, I'm Dinis Faria 👋
 
-> **System Administrator Infrastructure & Security**
+> **System Administrator - Infrastructure & Security**
 
 Welcome to my GitHub! I am an experienced IT professional with a strong focus on managing mission-critical infrastructure, security hardening, and system monitoring. 
 
